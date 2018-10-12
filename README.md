@@ -1,2 +1,2 @@
-# MachineLearning-Study
-MachineLearning Personal Study
+# Machine Learning-Study
+Machine Learning Personal Study
